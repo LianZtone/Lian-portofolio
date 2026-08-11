@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import foto from '@/assets/img/.foto.png'
+import foto from '@/assets/img/foto.png'
 
 interface Skill {
   icon: string
